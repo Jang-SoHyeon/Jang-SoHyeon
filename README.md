@@ -4,6 +4,8 @@
 <span style='background-color:yellow'>Introduce</span>  
 
 <span style="color:#ffd33d"> yellow </span>  
+<span style="background-color:#fff5b1"> 노란형광펜 </span>  
+
 💬 Introduce    
  풀스택을 희망하는 개발자입니다.  
 
