@@ -21,7 +21,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jang-SoHyeon&layout=compact&theme=tokyonight)
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=FFCC33&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=FFCC33&height=100&section=footer)
 
 
 <!--
