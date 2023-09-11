@@ -14,7 +14,7 @@
 ### Tool   
   
 <img alt="Figma" src ="https://img.shields.io/badge/Figma-F24E1E.svg?&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/linux-FCC624?&logo=linux&logoColor=black"> 
-
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon%20aws&logoColor=black"/>
 
 <!--
 **Jang-SoHyeon/Jang-SoHyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
