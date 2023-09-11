@@ -2,7 +2,7 @@
 
 💬 $\textcolor{#FEE716}{\textsf{Introduce}}$    
  풀스택을 희망하는 개발자입니다.  
- <div style="background-color:yello">Introduce</div>
+ <div style='background-color:#ffdce0'>Introduce</div>
 
 🌱 Study 
 Front-End : <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
