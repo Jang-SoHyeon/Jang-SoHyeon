@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=HELLO👋&fontSize=90&fontColor=FEE716)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=HELLO👋&fontSize=90&fontColor=FFCC33)
 
 > ## 💬 $\textcolor{#FEE716}{\textsf{Introduce}}$
 풀스택을 희망하는 개발자입니다.  
