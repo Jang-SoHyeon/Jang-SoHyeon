@@ -17,7 +17,7 @@ Back-End
 
 Tool   
   
-<img alt="Figma" src ="https://img.shields.io/badge/Figma-F24E1E.svg?&logo=Figma&logoColor=white"/>
+<img alt="Figma" src ="https://img.shields.io/badge/Figma-F24E1E.svg?&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
 
 
 <!--
