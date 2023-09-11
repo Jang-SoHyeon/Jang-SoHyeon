@@ -8,12 +8,12 @@
  # 🌱 $\textcolor{#FFCC33}{\textsf{Study}}$  
 ### language
   
-<img src="https://img.shields.io/badge/-HTML-E34F26?style=flat?style=for-the-badg&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat?style=for-the-badg&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat?style=for-the-badg&logo=JavaScript&logoColor=white"/> <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badg&logo=React&logoColor=black"/> <img alt="Next.js" src ="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badg&logo=Next.js&logoColor=white"/>  <img src="https://img.shields.io/badge/java-007396?style=for-the-badg&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badg&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/-HTML-E34F26?style=flat?style=for-the-badge&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat?style=for-the-badge&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat?style=for-the-badge&logo=JavaScript&logoColor=white"/> <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black"/> <img alt="Next.js" src ="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=Next.js&logoColor=white"/>  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 
 
 ### Tool   
   
-<img alt="Figma" src ="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badg&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badg&logo=linux&logoColor=black"> 
+<img alt="Figma" src ="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon%20aws&logoColor=black"/>
 
 <!--
