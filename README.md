@@ -4,8 +4,7 @@
 <span style='background-color:yellow'>Introduce</span>  
 
 
-$\textcolor{yellow}{\textsf{Introduce}}$  
-💬 Introduce    
+💬 $\textcolor{yellow}{\textsf{Introduce}}$    
  풀스택을 희망하는 개발자입니다.  
 
 🌱 Study  
