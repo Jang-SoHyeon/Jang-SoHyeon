@@ -13,7 +13,7 @@ language
 
 Tool   
   
-<img alt="Figma" src ="https://img.shields.io/badge/Figma-F24E1E.svg?&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/linux-FCC624?&logo=linux&logoColor=black"> 
+<img alt="Figma" src ="https://img.shields.io/badge/Figma-F24E1E.svg?&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/linux-FCC624&logo=linux&logoColor=black"> 
 
 
 <!--
