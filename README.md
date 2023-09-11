@@ -13,7 +13,7 @@
 
 ### Tool   
   
-<img alt="Figma" src ="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white"/>&nbsp; <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> &nbsp;
+<img alt="Figma" src ="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white"/>&nbsp; <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> &nbsp; <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">&nbsp;
 
 <!--
 **Jang-SoHyeon/Jang-SoHyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
