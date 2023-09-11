@@ -23,6 +23,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jang-SoHyeon&layout=compact&theme=tokyonight)
 
+today git이랑 c++ 과제한거 올리기
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=FFCC33&height=90&section=footer)
 
 
