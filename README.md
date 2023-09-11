@@ -1,12 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=HELLO👋&fontSize=90&fontColor=FEE716)
 
-
-<span style='background-color:yellow'>Introduce</span>  
-
-
 💬 $\textcolor{yellow}{\textsf{Introduce}}$    
  풀스택을 희망하는 개발자입니다.  
-$\colorbox{red}{\textsf{lorem ipsum}}$
+
 🌱 Study  
 Front-End : <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
