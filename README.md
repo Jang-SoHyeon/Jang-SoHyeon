@@ -3,7 +3,7 @@
 
 <span style='background-color:yellow'>Introduce</span>  
 
-$\color{black} \fcolorbox{yellow}{ \normalsize{ \textsfIntroduce}}}$
+
 💬 $\textcolor{yellow}{\textsf{Introduce}}$    
  풀스택을 희망하는 개발자입니다.  
 $\colorbox{red}{\textsf{lorem ipsum}}$
