@@ -3,9 +3,8 @@
 
 <span style='background-color:yellow'>Introduce</span>  
 
-<mark style='background-color: #24292e'><font color= "white"> 회색 </font></mark>  
-<mark style='background-color: #f6f8fa'> 연한 회색 </mark>    
-$\textcolor{red}{\textsf{안녕}}$  
+
+$\textcolor{yello}{\textsf{Introduce}}$  
 💬 Introduce    
  풀스택을 희망하는 개발자입니다.  
 
