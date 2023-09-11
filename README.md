@@ -5,9 +5,8 @@
  # 💬 $\textcolor{#FFCC33}{\textsf{Introduce}}$  
 ### 풀스택을 희망하는 개발자입니다.  
 
-          
+<br>
 
-  
  # 🌱 $\textcolor{#FFCC33}{\textsf{Study}}$  
 ### language
   
@@ -20,6 +19,7 @@
 <img alt="Figma" src ="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white"/>&nbsp; <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> &nbsp; <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">&nbsp;
 
   
+<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jang-SoHyeon&layout=compact&theme=tokyonight)
 
