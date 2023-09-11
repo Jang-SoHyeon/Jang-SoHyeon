@@ -4,7 +4,7 @@
 <span style='background-color:yellow'>Introduce</span>  
 
 
-$\textcolor{yello}{\textsf{Introduce}}$  
+$\textcolor{yellow}{\textsf{Introduce}}$  
 💬 Introduce    
  풀스택을 희망하는 개발자입니다.  
 
