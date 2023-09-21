@@ -2,12 +2,12 @@
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=HELLO👋&fontSize=90&fontColor=FFCC33)
 
- # 💬 Introduce$\textcolor{#FFCC33}{\textsf{Introduce}}$  
+ # 💬 Introduce
 ### 풀스택을 희망하는 개발자입니다.  
 😉
 <br>
 
- # 🌱 Study$\textcolor{#FFCC33}{\textsf{Study}}$  
+ # 🌱 Study
 ### language
   
 <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>&nbsp; <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>&nbsp; <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>&nbsp; <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black"/>&nbsp; <img alt="Next.js" src ="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=Next.js&logoColor=white"/>&nbsp;  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">&nbsp; <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">&nbsp;
