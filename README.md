@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFCC33&height=90&section=header)
 
-![header](https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=HELLO WORLD👋&fontSize=90&fontColor=FFCC33)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=HELLO👋&fontSize=90&fontColor=FFCC33)
 
  # 💬 Introduce
 ### 풀스택을 희망하는 개발자입니다.  
