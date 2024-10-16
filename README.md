@@ -16,6 +16,7 @@
 
 <img src ="https://img.shields.io/badge/Android Studio-34A853.svg?style=for-the-badge&logo=android&logoColor=white"/>&nbsp;<img src ="https://img.shields.io/badge/IntelliJ-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white"/>&nbsp;<img src ="https://img.shields.io/badge/Phycharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white"/>&nbsp;
 
+<img src ="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;<img src ="https://img.shields.io/badge/Redis-FF4438.svg?style=for-the-badge&logo=redis&logoColor=white"/>&nbsp;
 
 ### 🔧Tool   
   
