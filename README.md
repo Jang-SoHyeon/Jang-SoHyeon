@@ -14,6 +14,7 @@
 
 <img alt="Next.js" src ="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=Next.js&logoColor=white"/>&nbsp;
 
+<img src ="https://img.shields.io/badge/Android Studio-34A853.svg?style=for-the-badge&logo=android&logoColor=white"/>&nbsp;<img src ="https://img.shields.io/badge/IntelliJ-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white"/>&nbsp;<img src ="https://img.shields.io/badge/Phycharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white"/>&nbsp;
 
 
 ### 🔧Tool   
