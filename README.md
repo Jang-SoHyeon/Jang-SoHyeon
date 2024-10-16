@@ -14,12 +14,12 @@
 <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>&nbsp; <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>&nbsp; <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>&nbsp; <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black"/>&nbsp; <img alt="Next.js" src ="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=Next.js&logoColor=white"/>&nbsp;  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">&nbsp; <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">&nbsp;
 
 
-### Tool   
+### 🔧Tool   
   
 <img alt="Figma" src ="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white"/>&nbsp; <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> &nbsp; <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">&nbsp;
 
 
-### Backjoon
+### 📕Backjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jangso825)](https://solved.ac/jangso825/)
   
 <br>
