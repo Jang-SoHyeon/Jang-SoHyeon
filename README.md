@@ -18,7 +18,7 @@
 
 <img src ="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;<img src ="https://img.shields.io/badge/Redis-FF4438.svg?style=for-the-badge&logo=redis&logoColor=white"/>&nbsp;
 
-### 🪴Techs that I use well
+## 🪴Techs that I use well
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=coffeescript&logoColor=white">&nbsp;  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>&nbsp;
 
 <img src ="https://img.shields.io/badge/Spring Boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white"/>&nbsp;
