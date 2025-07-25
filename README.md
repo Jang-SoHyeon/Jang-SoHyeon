@@ -2,10 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=HELLO👋&fontSize=90&fontColor=FFCC33)
 
-
- # 💬 Introduce
-### 무엇이든 열정적으로 공부하고 싶은 개발자입니다! 
-
 <br>
 
  #  Study
